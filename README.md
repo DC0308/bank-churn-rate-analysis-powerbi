@@ -1,4 +1,4 @@
-# Customer Churn Analysis Dashboard
+# Bank Customer Churn Analysis Dashboard
 
 ## Problem Description
 This project involves analyzing customer churn data to identify the factors that contribute to customer attrition. The goal is to create a Power BI dashboard that provides insights into customer behavior and highlights key metrics that can help reduce churn rates.
